@@ -22,7 +22,6 @@
             </nav>
             <div id="menut">
                 <ul>
-                    <li><a href="#">Envoyez du soutien</a></li>
                     <li><a >Les productions</a>
                         <ul>
                             <li><a href="./reseaux.php">Le Réseaux Bonaparte</a></li>
