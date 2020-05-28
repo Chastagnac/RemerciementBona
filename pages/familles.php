@@ -12,27 +12,14 @@
     </head>
     <body>
         <?php
-            include('../Include/HeaderPages.php');
+        include('../Include/HeaderPages.php');
         ?>  
-           <nav>
+        <nav>
             <img src="../images/logo.png" class="logomerci" alt="merci">           
             <img src="../images/logo2.png" class="logomerci1" alt="merci">
         </nav>
-        <footer>
-            <div class="credits">
-                <h5>Conçu Par</h5> 
-                <h3>
-                    <a>Léo, Antoine, Adem, Valentin & Kévin</a>
-                </h3>
-                <h4>&copy 2020</h4>
-            </div>
-            <div class="contact">
-                <h5>Contact</h5>
-                <h4>
-                    <a href="mailto:">Email</a>
-                </h4>
-            </div>
-
-        </footer>
+        <?php
+        include ("../include/Footer.php");
+        ?>
     </body>
 </html>
