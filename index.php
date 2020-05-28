@@ -21,13 +21,12 @@ and open the template in the editor.
             <nav class ="menu" role="navigation">
                 <div class="inner">
                     <div class ="m-left">                        
-                        <h1 class ="logo">Bonaparte<a href="index.php"</a></h1>                      
+                        <h1 class ="logo"><a href="index.php">Bonaparte</a></h1>                      
                     </div>
                 </div>
             </nav>
             <div id="menut">
-                <ul>
-                    <li><a href="#">Envoyez du soutien</a></li>
+                <ul>                   
                     <li><a >Les productions</a>
                         <ul>
                             <li><a href="./pages/reseaux.php">Le Réseaux Bonaparte</a></li>
