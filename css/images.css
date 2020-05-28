@@ -1,0 +1,25 @@
+svg{
+  width:30%;
+  margin:0 auto;
+  display: grid;
+
+}
+#hex{
+  stroke-width:2;
+  stroke: teal;
+  fill-opacity:0.6;
+  transition:fill-opacity .8s;
+}
+#hex:hover{
+  fill-opacity:1;
+}
+#text{
+  stroke-width:0.5;
+  stroke:teal;
+  fill-opacity:0.4;
+  fill:teal;
+  transition:fill-opacity .8s;
+}
+#hex:hover + #text{
+  fill-opacity:1;
+}
