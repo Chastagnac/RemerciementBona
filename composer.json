@@ -1,0 +1,13 @@
+{
+    "name": "vendor/remerciements",
+    "description": "Description of project Remerciements.",
+    "authors": [
+        {
+            "name": "Léo",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "twig/twig": "v3.0.3"
+    }
+}
