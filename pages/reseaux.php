@@ -20,7 +20,14 @@
             <img src="../images/logo.png" class="logomerci" alt="merci">           
             <img src="../images/logo2.png" class="logomerci1" alt="merci">
         </nav>
+
+        <nav class="img">     
+            <img src="../images/Productions/Le Réseau Bonaparte/Maryam HANAASHMONE UPE2A - Claret.jpg" class="photos"alt="reseaux" width="200" height="100">      
+            <img src="../images/Productions/Le Réseau Bonaparte/Rahel Yebio (UPE2A Claret).jpg" class="photos"alt="reseaux" width="200" height="100">    
+        </nav>
+
         <?php
+        //include('../include/images.inc.php');
         include ("../include/Footer.php");
         ?>
     </body>

@@ -65,7 +65,7 @@ and open the template in the editor.
         <section>
             <div class="contener">
                 <video class="video" width="400" height="222" controls="controls">
-                    <source src="images/Productions/Soutien aux _héros du quotidien_ Lycée Bonaparte-1.mp4" type="video/mp4" type="video/mp4" />
+                    <source src="images/Productions/Soutien aux _héros du quotidien_ Lycée Bonaparte-1.mp4" type="video/mp4" />
                     Ici l'alternative à la vidéo : un lien de téléchargement, un message, etc.
                 </video>
         </section>

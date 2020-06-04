@@ -1,0 +1,8 @@
+<section id="images">
+    {% for images in images %}
+        <article>
+            <img src="../images/Productions/{{ image.libelle }}/{{ image.image }}" alt="{{ image.modele }}">                      
+        </article>
+    {% endfor %}
+</section>
+
